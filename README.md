@@ -36,3 +36,7 @@
 - 需要安裝以下套件：
   ```bash
   pip install pyqt5 openpyxl
+  
+## 使用介面
+
+![介面](UI.jpg)
